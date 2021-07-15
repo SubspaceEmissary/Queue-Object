@@ -1,6 +1,6 @@
 # This is a WIP; expect errors by consequence.
 
-class Stack():
+class Queue():
     def __init__(self):
         self._requestlist = []
         self._admitlist = []
